@@ -14,11 +14,11 @@ end
 pioneer = {}
 def pioneer
   pioneer = {:name => 'Grace Hopper'}
-
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
 end
 
-
+id_hash_generator = {}
 def id_hash_generator(number)
+  id_hash_generator = {:id => 5}
   # return a hash with a key :id assigned to the provided number
 end
